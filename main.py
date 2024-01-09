@@ -4,10 +4,10 @@ import pickle
 import numpy as np
 from sklearn import preprocessing
 
-FILEPATH = 'C:\\Users\\rober\\Desktop\\text-generator-markov-master\\file.txt'
-STATESPATH = 'C:\\Users\\rober\\Desktop\\text-generator-markov-master\\states.txt'
-SAVEFILEPATH = 'C:\\Users\\rober\\Desktop\\text-generator-markov-master\\matrix.txt'
-GENERATEDSTUFF = 'C:\\Users\\rober\\Desktop\\text-generator-markov-master\\generatedstuff.txt'
+FILEPATH = ''
+STATESPATH = ''
+SAVEFILEPATH = ''
+GENERATEDSTUFF = ''
 
 
 class MarkovThing:
